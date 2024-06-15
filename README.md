@@ -6,3 +6,5 @@ Features:
 3. Feedback System: Collects feedback from students to help improve hostel services.
 4. Mess Fee Structure: Displays detailed information about the mess fee structure.
 5. Attendance System: Tracks the attendance of students to ensure accountability and safety.
+
+Created by: Tejash , Anshaj , Ayush and Yash
