@@ -1,1 +1,1 @@
-Made A Hostel Mangement System For NITR .It consistes of all the major things about a Hostel including mess fees ,complaints,mess rebate.
+This Hostel Management System is a web application created during HackNitr 5.0 within 24 hours. It is designed to streamline and simplify the management of hostel operations, providing essential features like user authentication, complaints handling, feedback collection, mess fee structure management, and an attendance system.
