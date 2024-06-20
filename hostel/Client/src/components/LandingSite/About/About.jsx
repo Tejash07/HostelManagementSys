@@ -15,13 +15,13 @@ function About() {
   };
   const tejash = {
     name: "Tejash Pati",
-    designation: "Front End Developer",
+    designation: "Back End Developer",
     image:
       "https://w7.pngwing.com/pngs/81/570/png-transparent-profile-logo-computer-icons-user-user-blue-heroes-logo-thumbnail.png",
   };
   const yash = {
     name: "Yash Raj",
-    designation: "Back End Developer",
+    designation: "Front End Developer",
     image:
       "https://w7.pngwing.com/pngs/81/570/png-transparent-profile-logo-computer-icons-user-user-blue-heroes-logo-thumbnail.png",
   };
